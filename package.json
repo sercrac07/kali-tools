@@ -1,0 +1,14 @@
+{
+  "name": "kali-tools",
+  "description": "Tools for making Kali Linux easier to use.",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "echo 'no test'"
+  },
+  "keywords": [
+    "kali-tools",
+    "commands"
+  ],
+  "author": "sercrac07",
+  "license": "MIT"
+}
